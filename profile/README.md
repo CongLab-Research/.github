@@ -3,12 +3,8 @@
 </div>
 <div align="center">
    <div>
-        <a href="https://huggingface.co/CongLab-Research">
-        <img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=#ffd21e"/>
-        </a>
-        <a href="https://conglab.com/">
-        <img src="https://img.shields.io/badge/Website-black?style=flat&logo=googlechrome&logoColor=white"/>
-        </a>
+        <a href="https://huggingface.co/CongLab-Research"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=flat&logo=huggingface&logoColor=#ffd21e"/></a>
+        <a href="https://conglab.com/"><img src="https://img.shields.io/badge/Website-black?style=flat&logo=googlechrome&logoColor=white"/></a>
     </div>
 </div>
 

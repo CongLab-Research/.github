@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="../assets/dna.jpg" width="40%" alt="logo">
+  <img src="./assets/dna.jpg" width="40%" alt="logo">
 </div>
 
 <div align="center">
 
 # CongLab
   
-<img src="../assets/stanford_logo.png"
+<img src="./assets/stanford_logo.png"
      height="50"/>
 </div>
 

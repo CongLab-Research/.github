@@ -3,10 +3,11 @@
 </div>
 
 <div align="center">
-  <h1 style="margin-bottom: 0.2em;">CongLab</h1>
-  <p style="margin-top: 0; font-size: 1.05em; color: #666;">
-    Stanford University
-  </p>
+
+# CongLab
+  
+<img src="https://raw.githubusercontent.com/CongLab-Research/.github/main/assets/stanford_logo.png"
+     height="50"/>
 </div>
 
 <div align="center">

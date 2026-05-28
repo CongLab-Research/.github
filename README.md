@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/CongLab-Research/.github/blob/main/assets/dna.jpg" width="40%" alt="logo">
+  <img src="../assets/dna.jpg" width="40%" alt="logo">
 </div>
 
 <div align="center">
 
 # CongLab
   
-<img src="https://raw.githubusercontent.com/CongLab-Research/.github/main/assets/stanford_logo.png"
+<img src="../assets/stanford_logo.png"
      height="50"/>
 </div>
 
